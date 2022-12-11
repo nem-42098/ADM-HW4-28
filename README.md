@@ -26,7 +26,7 @@ The repository contains:
 
 - A **README**.md file
 
-- A **jupyter notebook** named **main.ipynb** with the implementation of the LSH algorithm, Clustering with it's analysis, Bonus and the Algorithmic question.
+- A **jupyter notebook** named **main.ipynb** with the implementation of the LSH algorithm, Clustering with its analysis, Bonus and the Algorithmic question.
 
 - A **sh** file, named **CommandLine.sh** containing the code to solve the Command Line question.
 
