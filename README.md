@@ -13,8 +13,8 @@ Carolina Romani 1693102
 ###Dataset Description:
 In this work,we have used the [Banking Dataset](https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation) available on the Kaggle.This dataset consists of 1 Million+ transaction by over 800K customers for a bank in India. The data contains information such as - customer age (DOB), location, gender, account balance at the time of the transaction, transaction details, transaction amount, etc.We have used this for mainly two tasks:
 
--A Finding Similar Customer using Local Sensitivity Hashing Method which gives us recommendation based on input query.
--A Clustering, to find different types of groups present with some specific characteristics.
+1. Finding Similar Customer using Local Sensitivity Hashing Method which gives us recommendation based on input query.
+2. Clustering, to find different types of groups present with some specific characteristics.
 
 
 
